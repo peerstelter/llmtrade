@@ -53,7 +53,7 @@ Dieses Projekt ist ein Forschungs- und Lernprojekt. Es handelt sich ausschließl
 ![Status](https://img.shields.io/badge/Status-Experimentell-orange?style=flat)
 ![License](https://img.shields.io/badge/Lizenz-Proprietär-red?style=flat)
 
-> Quellcode ist nicht öffentlich. Bei Fragen oder Interesse an der Architektur: [peer@peerstelter.de](mailto:peer@peerstelter.de)
+> Quellcode ist nicht öffentlich. Bei Fragen oder Interesse an der Architektur: [info@peerstelter.de](mailto:info@peerstelter.de)
 
 ---
 
